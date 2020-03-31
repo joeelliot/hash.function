@@ -1,0 +1,22 @@
+{
+  "name": "hash.function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeelliot/hash.function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeelliot/hash.function/issues"
+  },
+  "homepage": "https://github.com/joeelliot/hash.function#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
