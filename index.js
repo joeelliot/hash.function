@@ -1,3 +1,3 @@
-import { sha256, sha224 } from 'js-sha256';
+const ayam = require('js-sha256')
 
-a
+console.log(ayam.sha256('ABC'))
